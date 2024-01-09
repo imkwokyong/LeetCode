@@ -1,2 +1,2 @@
 # LeetCode
-To try out github
+To store solutions for leetcode (not much to say...)
